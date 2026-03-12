@@ -1,1 +1,1 @@
-# Comp-tition_Deep_Learning
+# Competition_Deep_Learning
